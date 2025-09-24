@@ -99,5 +99,7 @@ result.save("output.png")
 - einops
 - jaxtyping
 
+## TODO
+- [ ] Add Dpm++ solver
 
 
